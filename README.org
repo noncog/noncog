@@ -5,7 +5,7 @@ My name is Jake, I'm a student pursuing a bachelor's degree in computer science.
 
 Please, look around and consider contributing or contacting me.
 #+HTML:<details>
-#+HTML:<summary><b>Philosophy</b></summary><br>
+#+HTML:<summary><b><ins>Philosophy</ins></b></summary><br>
 
 I believe that self awareness and understanding of motivation are the most important skills one can cultivate in their lifetime.
 - Why do you do the things that you do? Does it align with your beliefs? And are those right?
@@ -18,7 +18,7 @@ I believe in sharing information and empowering others. Information is the most 
 #+HTML:</details>
 
 #+HTML:<details>
-#+HTML:<summary><b>Interests</b></summary><br>
+#+HTML:<summary><b><ins>Interests</ins></b></summary><br>
 
 Increasingly, I'm gravitating toward "lower level" technologies.
 - Linux - Debian 11
@@ -36,7 +36,7 @@ Increasingly, I'm gravitating toward "lower level" technologies.
 #+HTML:</details>
 
 #+HTML:<details>
-#+HTML:<summary><b>Contact</b></summary><br>
+#+HTML:<summary><b><ins>Contact</ins></b></summary><br>
 
 Coming soon!
 
