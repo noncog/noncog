@@ -19,8 +19,11 @@ Increasingly, I'm gravitating toward "lower level" technologies.
 - Commandline/Bash
 - C and C++
 - Emacs, Vim, and Doom Emacs
+ - Org-mode and literate programming.
 - Custom ergonomic, split, mechanical keyboards.
-- Keyboard firmware (QMK and ZMK)
+ - Microncontrollers (RP2040, Pro Micro/Elite-C)
+ - Keyboard firmware (QMK and ZMK)
+ - CAD design (Fusion 360, Clojure/OpenSCAD)
 
 <!--
 **noncog/noncog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
