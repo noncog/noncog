@@ -9,7 +9,7 @@ Please, look around and consider contributing or contacting me.
 
 I believe that self awareness and understanding of motivation are the most important skills one can cultivate in their lifetime.
 #+BEGIN_QUOTE
-Why do you do the things that you do? Does it align with your beliefs? And are those right?
+Why do you do, the things that you do? Does it align with your beliefs? And are those right?
 #+END_QUOTE
 
 I believe that the world today has a social problem, in that we do things to be seen, not because we actually want to do them. This leads to a plateua, in the depth of achievement possible. Those that truly are interested, achieve more in that field. People want to do something for it's positive aspects, to be seen doing it, to be rewarded, not because they're dedicated to it, and all of it's negatives too. This can be applied to all areas of life. Including GitHub.
