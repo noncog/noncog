@@ -19,7 +19,7 @@ Increasingly, I'm gravitating toward "lower level" technologies.
 - Commandline/Bash
 - C and C++
 - Emacs, Vim, and Doom Emacs
-- Org-mode and literate programming.
+	- Org-mode and literate programming.
 - Custom ergonomic, split, mechanical keyboards.
 	- Microncontrollers (RP2040, Pro Micro/Elite-C)
 	- Keyboard firmware (QMK and ZMK)
