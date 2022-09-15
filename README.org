@@ -3,6 +3,8 @@
 * Hello,
 My name is Jake, I'm a student at Youngstown State University. I'm pursuing a bachelor's degree in computer science.
 
+This is where I share some of my projects and information.
+
 Please, look around and consider contributing or contacting me.
 #+HTML:<details>
 #+HTML:<summary><b><ins>Philosophy</ins></b></summary><br>
