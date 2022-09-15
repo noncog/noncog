@@ -24,7 +24,7 @@ Increasingly, I'm gravitating toward "lower level" technologies.
 - Custom ergonomic, split, mechanical keyboards.
 	- Microncontrollers (RP2040, Pro Micro/Elite-C)
 	- Keyboard firmware (QMK and ZMK)
- - CAD design (Fusion 360, Clojure/OpenSCAD)
+	- CAD design (Fusion 360, Clojure/OpenSCAD)
 
 <!--
 **noncog/noncog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
