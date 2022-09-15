@@ -15,6 +15,8 @@ Why do you do, the things that you do? Does it align with your beliefs? And are 
 I believe that the world today has a social problem, in that we do things to be seen, not because we actually want to do them. This leads to a plateua, in the depth of achievement possible. Those that truly are interested, achieve more in that field. People want to do something for it's positive aspects, to be seen doing it, to be rewarded, not because they're dedicated to it, and all of it's negatives too. This can be applied to all areas of life. Including GitHub.
 	
 In reality, no one cares what you do, but you. It's nice to share achievement, but that's become the goal in itself. As such, I like to keep things simple, honest, and easy to digest around here.
+
+Here is a [[https://www.youtube.com/watch?v=vmzeWs4uJ1g][relevant talk]] by Protesilaos Stavrou on the subject.
 	
 I believe in sharing information and empowering others. Information is the most powerful thing man has, and what you do with it shows your true character and beliefs. This is my primary reason for distributing free software and putting myself on the internet. To give back, act as a beacon and source for these ideas, and attact others who want to do the same.
 #+HTML:</details>
