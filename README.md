@@ -1,4 +1,4 @@
-### Hello
+### Hello,
 My name is Jake, I'm a student pursuing a bachelor's degree in computer science.
 
 <!--
