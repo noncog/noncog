@@ -3,7 +3,7 @@ My name is Jake, I'm a student pursuing a bachelor's degree in computer science.
 
 Please, look around and consider contributing or contacting me.
 
-### Interests
+## Interests
 Increasingly, I'm gravitating toward "lower level" technologies.
 - Linux - Debian 11
 - Commandline/Bash
