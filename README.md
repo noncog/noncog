@@ -16,6 +16,7 @@ I believe in sharing information and empowering others. Information is the most 
 ## Interests
 Increasingly, I'm gravitating toward "lower level" technologies.
 - Linux - Debian 11
+	- System crafting
 - Commandline/Bash
 - C and C++
 - Emacs, Vim, and Doom Emacs
