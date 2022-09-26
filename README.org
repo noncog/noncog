@@ -25,7 +25,7 @@ I believe in sharing information and empowering others. Information is the most 
 #+HTML:<details>
 #+HTML:<summary><b><ins>Interests</ins></b></summary><br>
 
-Increasingly, I'm gravitating toward "lower level" technologies.
+Increasingly, I'm gravitating toward "lower level" or older technologies through exposure from UNIX-like systems and programming.
 - GNU/Linux - Debian 11
   - System crafting!
 - Commandline - I love a nice one-liner.
