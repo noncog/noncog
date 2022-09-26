@@ -27,15 +27,18 @@ I believe in sharing information and empowering others. Information is the most 
 
 Increasingly, I'm gravitating toward "lower level" technologies.
 - Linux - Debian 11
-  - System crafting
+  - System crafting!
 - Commandline/Bash
+  - Want to become fluent with grep, sed, and awk.
 - C and C++
+  - Trying to get into SICP/lisp, clojure, and Python.
 - Emacs, Vim, and Doom Emacs
   - Org-mode and literate programming.
+    - By extension LaTeX
 - Custom ergonomic, split, mechanical keyboards.
   - Microncontrollers (RP2040, Pro Micro/Elite-C)
   - Keyboard firmware (QMK and ZMK)
-  - CAD design (Fusion 360, Clojure/OpenSCAD)
+  - CAD design (Fusion 360, Clojure/OpenSCAD, and KiCAD)
 #+HTML:</details>
 
 #+HTML:</details>
