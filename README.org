@@ -26,7 +26,7 @@ I believe in sharing information and empowering others. Information is the most 
 #+HTML:<summary><b><ins>Interests</ins></b></summary><br>
 
 Increasingly, I'm gravitating toward "lower level" technologies.
-- Linux - Debian 11
+- GNU/Linux - Debian 11
   - System crafting!
 - Commandline - I love a nice one-liner.
   - Bash scripting
