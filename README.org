@@ -32,7 +32,7 @@ Increasingly, I'm gravitating toward "lower level" technologies.
   - Bash scripting
   - Want to become fluent with grep, sed, and awk.
 - C and C++
-  - Trying to get into SICP/lisp, clojure, and Python.
+  - Trying to get into SICP/Lisp, Clojure, and Python.
 - Emacs, Vim, and Doom Emacs
   - Org-mode and literate programming.
     - By extension LaTeX
