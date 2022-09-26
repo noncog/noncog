@@ -28,7 +28,8 @@ I believe in sharing information and empowering others. Information is the most 
 Increasingly, I'm gravitating toward "lower level" technologies.
 - Linux - Debian 11
   - System crafting!
-- Commandline/Bash
+- Commandline - I love a nice one-liner.
+  - Bash scripting
   - Want to become fluent with grep, sed, and awk.
 - C and C++
   - Trying to get into SICP/lisp, clojure, and Python.
