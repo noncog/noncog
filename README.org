@@ -1,6 +1,6 @@
 #+HTML: <p align="center"><a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Made_with-Emacs-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white"></a> <a href="https://orgmode.org"><img src="https://img.shields.io/badge/Org-Document-%2377aa99?style=flat-square&logo=org&logoColor=white"></a></p>
 
-#+HTML: <p align="center"><img src="profile-art-test-tube.png" height="275"></p>
+#+HTML: <p align="center"><img src="profile-art-test-tube.png" height="225"></p>
 #+HTML: <p align="center"><code>Keep experimenting!</code></p>
 
 * Hello,
